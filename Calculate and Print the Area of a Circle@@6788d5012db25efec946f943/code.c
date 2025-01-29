@@ -8,6 +8,6 @@ int main() {
     float r;
     scanf("%f",&r);
     float sum = r*r;
-    printf("%.2f",sum*3.14);
+    printf("Area: %.2f",sum*3.14);
     return 0;
 }
