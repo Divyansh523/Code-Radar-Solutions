@@ -7,7 +7,7 @@ char* welcome() {
 int main() {
     float r;
     scanf("%f",&r);
-    float area = 3.14*r*r;
-    printf("%.2f",area);
+    float sum = r*r;
+    printf("%.2f",sum*3.14);
     return 0;
 }
