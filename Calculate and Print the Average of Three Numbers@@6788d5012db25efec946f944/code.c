@@ -5,8 +5,8 @@ char* welcome() {
 }
 
 int main() {
-    float a,b,c;
+    int a,b,c;
     scanf("%d ",&a);scanf("%d ",&b);scanf("%d ",&c);
     float avg = (a+b+c)/3;
-    printf("%d",avg);
+    printf("Average: %d",avg);
 }
