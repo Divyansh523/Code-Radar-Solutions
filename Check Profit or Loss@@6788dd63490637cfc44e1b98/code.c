@@ -7,7 +7,7 @@ char* welcome() {
 int main() {
      float cp, sp;
 
-    printf("Enter Cost Price and Selling Price: ");
+    
     scanf("%f %f", &cp, &sp);
 
     if (sp > cp)
