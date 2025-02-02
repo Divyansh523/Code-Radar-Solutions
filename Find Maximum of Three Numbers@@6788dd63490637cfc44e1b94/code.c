@@ -10,11 +10,11 @@ int main() {
     scanf("%d",&b);
     scanf("%d",&c 
     if (a >= b && a >= c) {
-        printf("%d is the largest.\n", a);
+        printf("%d ", a);
     } else if (b >= a && b >= c) {
-        printf("%d is the largest.\n", b);
+        printf("%d ", b);
     } else {
-        printf("%d is the largest.\n", c);
+        printf("%d ", c);
     });
     
     return 0;
