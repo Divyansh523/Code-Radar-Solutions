@@ -20,8 +20,7 @@ int main() {
         // If none of the above, it's a scalene triangle
         else
             printf("Scalene triangle\n");
-    } else {
-        printf("Not a valid triangle\n");
-    }
+    } 
+    
     return 0;
 }
