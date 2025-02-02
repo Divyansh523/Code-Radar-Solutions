@@ -10,13 +10,13 @@ scanf("%d %d %d", &a, &b, &c);
 
     // Check for equilateral triangle
     if (a == b && b == c)
-        printf("Equilateral triangle\n");
+        printf("Equilateral");
     // Check for isosceles triangle
     else if (a == b || b == c || c == a)
-        printf("Isosceles triangle\n");
+        printf("Isosceles");
     // If none of the above, it's a scalene triangle
     else
-        printf("Scalene triangle\n");
+        printf("Scalene");
    
     
     return 0;
