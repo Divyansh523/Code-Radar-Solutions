@@ -12,7 +12,7 @@ int main() {
     }
     
     else{
-      printf("odd.\n", a);
+      printf("Odd.\n", a);
     }
     
     return 0;
