@@ -10,6 +10,6 @@ int main() {
     if (1<x<100)
     printf("In Range");
     else
-    printf("Out of Range")
+    printf("Out of Range");
     return 0;
 }
