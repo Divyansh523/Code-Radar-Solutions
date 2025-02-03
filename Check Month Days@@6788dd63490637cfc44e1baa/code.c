@@ -25,7 +25,7 @@ int main() {
     printf("31");
     else if(x==9)
     printf("30");
-    else if (x==10);
+    else if (x==10)
     printf("31");
     else if (x==11)
     printf("30");
