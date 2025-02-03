@@ -32,7 +32,7 @@ int main() {
     else if (x==12)
     printf("31");
     else
-    print("Invalid month");
+    print("Invalid Month");
 
     return 0;
 }
