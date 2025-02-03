@@ -10,6 +10,6 @@ int main() {
     if (t<=0)
     printf("Freezing");
     else
-    printf("Above Freezing")
+    printf("Above Freezing");
     return 0;
 }
