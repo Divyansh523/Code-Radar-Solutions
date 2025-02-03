@@ -8,7 +8,7 @@ int main() {
     int x,y;
     scanf("%d",&x);
     scanf("%d",&y);
-    if (x**2=y)
+    if (x*x==y)
     printf("Yes");
     else
     printf("No");
