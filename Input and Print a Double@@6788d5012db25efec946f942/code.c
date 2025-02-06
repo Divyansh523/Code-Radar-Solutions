@@ -5,9 +5,14 @@ char* welcome() {
 }
 
 int main() {
-    float x;
-    scanf("%.2f",x);
-    printf("%.2f",2x);
+     double num;
+    
+    
+    scanf("%lf", &num);
+    
+  
+    printf("You entered: ", num, 2 * num);
+   
 
     return 0;
 }
