@@ -12,6 +12,6 @@ int main() {
     scanf("%c", &ch);
 
     
-    printf("ASCII Value: ", ch, ch); 
+    printf("ASCII Value:", ch, ch); 
     return 0;
 }
